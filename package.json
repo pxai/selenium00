@@ -1,0 +1,27 @@
+{
+  "name": "selenium00",
+  "version": "1.0.0",
+  "description": "Selenium sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pxai/selenium00.git"
+  },
+  "keywords": [
+    "selenium",
+    "testing",
+    "node"
+  ],
+  "author": "Pello Altadilñl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pxai/selenium00/issues"
+  },
+  "homepage": "https://github.com/pxai/selenium00#readme",
+  "dependencies": {
+    "selenium-webdriver": "^2.53.1"
+  }
+}
